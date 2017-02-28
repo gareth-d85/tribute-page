@@ -2,14 +2,6 @@ html {
 	background-color: DarkSlateGrey ;
 	}
 
-* {
-	font-family: 'Josefin Sans', sans-serif, monospace;
-    } 
-
-h1 {
-	text-align: center;
-	}
-
 .portrait-image {
 	display: block;
 	width: 200px;
@@ -18,7 +10,43 @@ h1 {
 	 border-radius: 8px;
 	}
 
-/* font family
-font-family: 'Playfair Display', serif;
+
+body {
+	background-color: DarkSlateGrey ;
+	}
+
+* {
+	font-family: 'Josefin Sans', sans-serif, monospace;
+  color: black;
+    } 
+
+h1,h3 {
+  font-family: 'Josefin Sans';
+  color: black;
+	text-align: center;
+	}
+
+
+
+.first-p {
+  text-align: center;
+  color: black;
+  font-size: 150%;
+  }
+
+ul {
+  width: 200px;
+  margin: auto;
+  /* text-align: center; */
+}
+
+h4 {
+  margin: auto;
+  text-align: center;
+}
+
+/* 
+font family
 font-family: 'Josefin Sans', sans-serif;
-font-family: 'Amatic SC', cursive; */
+*/
+
